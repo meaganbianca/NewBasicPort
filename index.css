@@ -1,3 +1,23 @@
+.container {
+    background-image: image(assets/images/background-cement-concrete-paint-242236.jpg);
+}
+
+#navigation {
+background-color: white;
+}
+
+#box {
+background-color: white;
+}
+
+.col-3 {
+width: 25%;
+}
+
 .col-6 {
 width: 50%;
+}
+
+.col-10 {
+width: 83%;
 }
