@@ -1,23 +1,15 @@
-.container {
-    background-image: image(assets/images/background-cement-concrete-paint-242236.jpg);
+body {
+    background-image: url(assets/images/background-cement-concrete-paint-242236.jpg);
 }
 
-#navigation {
-background-color: white;
+.img-thumbnail {
+    padding-right: 1in;
 }
 
-#box {
-background-color: white;
+h2 {
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.col-3 {
-width: 25%;
-}
-
-.col-6 {
-width: 50%;
-}
-
-.col-10 {
-width: 83%;
+h3 {
+    font-family: 'Times New Roman', Times, serif;
 }
